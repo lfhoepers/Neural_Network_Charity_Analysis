@@ -67,7 +67,7 @@ Attempt 3 - Removing Noisy Variables, Adding additional neurons to the hidden la
 
 ## Summary: 
 
-Despite all above efforts, I was not able to achieve the desired accuracy of 75%.
+In addition to the optimization models presented, I experimented with some combinations. Despite all efforts, I was not able to achieve the desired accuracy of 75%.
 
 For further analysis I recommend an additional analysis using the Random Forest classifier to compare the results to the deep learning model.
 
