@@ -1,6 +1,6 @@
 # Module 19 Challenge
 
-## Overview of the Neural_Network_Charity_Analysis
+## Overview of the Neural Network Charity Analysis
 
 The purpose of this analysis was to assist Alphabet Soup predict where to make investments, analyzing data from more than 34,000 organizations that have received funding from Alphabet Soup over the years.
 
@@ -67,11 +67,12 @@ Attempt 3 - Removing Noisy Variables, Adding additional neurons to the hidden la
 
 ## Summary: 
 
+In addition to the optimization models presented, we experimented with some combinations. Despite these efforts, I was not able to achieve the desired accuracy of 75%.
 
+For further analysis I recommend an additional analysis using the Random Forest classifier to compare the results to the deep learning model.
 
 
 I appreciate the opportunity to present this project, I am available for any clarification.
-
 
 
 **Luiz Fernando Hoepers**  
